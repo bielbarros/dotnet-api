@@ -1,0 +1,10 @@
+@Exercício_MS_C__WEB_API_HostAddress = http://localhost:5256
+
+GET {{Exercício_MS_C__WEB_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{Exercício_MS_C__WEB_API_HostAddress}}/pizza/
+Accept: application/json
+
+###
